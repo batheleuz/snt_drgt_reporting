@@ -1,0 +1,92 @@
+{
+    "name": "Reporting Global Mens",
+    "direction": "SONATEL",
+    "column_kpi": [
+        {
+            "id": "2",
+            "delai": "2",
+            "type_drgt": "adsl",
+            "delai_time": "DAY",
+            "nom": "",
+            "abreviation": "VR2J ADSL",
+            "type_kpi": "pourcentage",
+            "id_indicateur": "2"
+        },
+        {
+            "id": "3",
+            "delai": "2",
+            "type_drgt": "tvo",
+            "delai_time": "DAY",
+            "nom": "",
+            "abreviation": "VR2J TVO",
+            "type_kpi": "pourcentage",
+            "id_indicateur": "3"
+        },
+        {
+            "id": "4",
+            "delai": "1",
+            "type_drgt": "tvo",
+            "delai_time": "DAY",
+            "nom": "",
+            "abreviation": "VR1J TVO",
+            "type_kpi": "pourcentage",
+            "id_indicateur": "4"
+        },
+        {
+            "id": "7",
+            "delai": "3",
+            "type_drgt": "adsl",
+            "delai_time": "DAY",
+            "nom": "",
+            "abreviation": "VR3J ADSL",
+            "type_kpi": "pourcentage",
+            "id_indicateur": "7"
+        },
+        {
+            "id": "8",
+            "delai": "24",
+            "type_drgt": "adsl",
+            "delai_time": "HOUR",
+            "nom": "",
+            "abreviation": "VR24H ADSL",
+            "type_kpi": "pourcentage",
+            "id_indicateur": "8"
+        },
+        {
+            "id": "11",
+            "delai": "5",
+            "type_drgt": "tvo",
+            "delai_time": "DAY",
+            "nom": "",
+            "abreviation": "VR5J  TVO",
+            "type_kpi": "pourcentage",
+            "id_indicateur": "11"
+        },
+        {
+            "id": "15",
+            "delai": "24",
+            "type_drgt": "adsl",
+            "delai_time": "HOUR",
+            "nom": "",
+            "abreviation": "VR24H  ADSL",
+            "type_kpi": "pourcentage",
+            "id_indicateur": "15"
+        }
+    ],
+    "dates": {
+        "start": "2017-01-01",
+        "end": "2017-01-31"
+    },
+    "par": "month",
+    "groupe_intervention": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+    ]
+}
