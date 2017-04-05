@@ -1,7 +1,7 @@
 # **SNT_DRGT_SONATEL**
 Application de reporting des dérangement de la sonatel.
 
-####L'application permet de:
+#### **L'application permet de :**
 
 * Intégrer le fichier de dérangement télécharger depuis GAIA
 * Créer un projet de reporting pour un service.
